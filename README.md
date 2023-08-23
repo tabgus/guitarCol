@@ -14,4 +14,4 @@ pnpm dev
 
 Ésta aplicación fue construida en el frontend con React y Nextjs, y se desplegó en Vercel.
 El backend se construyó con el headless llamado Strapi y la base de datos Postgres, éstos dos se desplegaron en Railway.
-[Ir a la aplicación](https://guitar-col.vercel.app/)
+
